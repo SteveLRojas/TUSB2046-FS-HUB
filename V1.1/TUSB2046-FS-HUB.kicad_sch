@@ -1082,7 +1082,6 @@
     )
   )
 
-
   (junction (at 175.26 26.67) (diameter 0) (color 0 0 0 0)
     (uuid 04059594-3a6e-4b84-b0e5-c92e72809750)
   )
@@ -3895,7 +3894,7 @@
     (in_bom yes) (on_board yes)
     (uuid d2585116-e3d0-441e-ad43-ba85fd2a7165)
     (property "Reference" "R1" (id 0) (at 20.32 50.8 90))
-    (property "Value" "560" (id 1) (at 22.86 50.8 90))
+    (property "Value" "750" (id 1) (at 22.86 50.8 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 27.178 50.8 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4527,7 +4526,7 @@
       (reference "J9") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/d2585116-e3d0-441e-ad43-ba85fd2a7165"
-      (reference "R1") (unit 1) (value "560") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R1") (unit 1) (value "750") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/2d87ccc0-d321-4030-b172-e79164d6fb32"
       (reference "R2") (unit 1) (value "27") (footprint "Resistor_SMD:R_0805_2012Metric")
